@@ -27,4 +27,4 @@ run the net
 python3.9 cyber.py
 
 
-If you want more power 
+If you want more power expov1 on Discord
